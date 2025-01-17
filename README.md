@@ -7,7 +7,7 @@ Sobre mim:
  ## Status:   
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisOtavioD&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOtavioD&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOtavioD&layout=compact&theme=nightowl)
 
 
 
