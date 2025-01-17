@@ -1,7 +1,11 @@
 # Bem vindo(a) [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
 Sobre mim:
+```
+
 -Atualmente estudando no Vai na Web curso full stack.
 -Ainda completando ensino medio
+```
 
 
 Status:
