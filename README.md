@@ -4,8 +4,8 @@ Sobre mim:
 -Atualmente estudando no Vai na Web curso full stack.   
 -Ainda completando ensino medio   
 
+Status:   
 
-Status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisOtavioD&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
